@@ -1,4 +1,4 @@
-module github.com/ginuerzh/gost
+module github.com/junglefire/gost
 
 go 1.16
 
